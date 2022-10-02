@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu portal de notícias</title>
+    <link rel="stylesheet" href="./main.css" />
+    <link rel="stylesheet" href="./main.css" />
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Meu portal de notícias</h1>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="#sports" title="Ir para a seção de esportes">Esportes</a>
+                    </li>
+                    <li>
+                        <a href="#economy" title="Ir para a seção de notícias">Economia</a>
+                    </li>
+                    <li>
+                        <a href="#entretenimento" title="Ir para a seção de entretenimento">Entretenimento</a>
+                    </li>
+                    <li>
+                        <a href="#tecnologia" title="Ir para a seção de tecnologia">Tecnologia</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <section id="sports">
+        <div class="container">
+            <h2>Esportes</h2>
+        <div class="articles">
+            <article>
+                <img src="https://bnj.blob.core.windows.net/assets/Htdocs/Images/Pictures/197218.jpg?puid=fee1deef-b182-448e-bd21-8b1856580ec8" alt="Bola de futebol no gramado" />
+                <header>
+                    <time class="creation-date">13/07/2022 às 12:35</time>
+                </header>
+                <h3>Grande clássico na noite de hoje</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                </p>
+                <a href="#" title="Leia a notícia completa">Ler mais</a>
+            </article>
+            <article>
+                <img src="https://www.theplayoffs.com.br/wp-content/uploads/2021/12/fabr-biral-768x510.jpg" alt="Jogador de futebol americano correndo com a bola na mão" />
+                <header>
+                    <time>13/07/2022 às 12:35</time>
+                </header>
+                <h3>Noite do Superbowl</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                </p>
+                <a href="#" title="Leia a notícia completa">Ler mais</a>
+            </article>
+            <article>
+                <img src="https://mantosagrado.club/wp-content/uploads/2021/12/Arenas-NBA.jpg" title="Vista aérea de uma quadra de basquete" />
+                <header>
+                    <time>13/07/2022 às 12:35</time>
+                </header>
+                <h3>Notícia sobre a NBA</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                </p>
+                <a href="#" title="Leia a notícia completa">Ler mais</a>
+            </article>
+            <article>
+                <img src="https://mantosagrado.club/wp-content/uploads/2021/12/Arenas-NBA.jpg" title="Vista aérea de uma quadra de basquete" />
+                <header>
+                    <time>13/07/2022 às 12:35</time>
+                </header>
+                <h3>Notícia sobre a NBA</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                </p>
+                <a href="#" title="Leia a notícia completa">Ler mais</a>
+            </article>
+        </div>
+        </div>
+    </section>
+    <section id="economy">
+        <div class="container">
+            <h2>Economia</h2>
+            <div class="articles">
+                <article>
+                    <img src="https://einvestidor.estadao.com.br/wp-content/uploads/sites/715/2020/03/dolar_240320202048.jpg" alt="Muitos dólares" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Dólar em alta de 0.50%</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="https://s2.glbimg.com/7B_MafnM7GZMaQ6g93qo3ZSMiHk=/e.glbimg.com/og/ed/f/original/2019/01/14/bank-note-209104_1280.jpg" alt="Várias notas de euro" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Euro em queda de 0.40%</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="https://static.poder360.com.br/2021/09/refinaria-petroleo-unsplash-848x477.jpg" alt="Extração de petróleo" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Alta no preço do barril do petróleo</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+            </div>
+        </div>
+    </section>
+    <section id="entretenimento">
+        <div class="container">
+            <h2>Entretenimento</h2>
+            <div class="articles">
+                <article>
+                    <img src="https://s2.glbimg.com/srFIjUajXTX0YveIPCU4czpwTV4=/0x0:5325x3552/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/n/B/QIThd8Twa0uqCrMz8pvA/valchamps2022-grandfinals-day16-255.jpg" alt="Loud campeã" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Loud é campeã mundial de Valorant</h3>
+                    <p>
+                        Uma das principais equipes brasileiras de E-Sports, a LOUD foi campeã mundial de Valorant neste domingo. O time venceu a Champions 2022 do game ao bater os norte-americanos da OpTic por 3 a 1.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="https://i.ytimg.com/vi/42qs5IxwcwY/maxresdefault.jpg" alt="Ramon Dino"/>
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Ramon Dino é o brasileiro mais próximo de ganhar o Olympia</h3>
+                    <p>
+                        Ramon vem sendo treinado diariamente pelo renomado fisiculturista Eduardo Correa e está apresentando uma melhora física impressionante a cada dia que passa. 
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="https://img.estadao.com.br/fotos/crop/1200x675/resources/jpg/0/3/1603403042430.jpg" alt="Eleições 2022" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>A urna eletrônica é segura?</h3>
+                    <p>
+                        Mesmo que todo ano de eleição acompanhem apontamentos duvidosos sobre a veracidade das urnas, especialistas confirmão que urna eletrônica é confiavel, por criptografia usada em seu sistema. 
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+            </div>
+        </div>
+    </section>
+    <section id="tecnologia">
+        <div class="container">
+            <h2>Tecnologia</h2>
+            <div class="articles">
+                <article>
+                    <img src="https://i0.wp.com/blog.portaleducacao.com.br/wp-content/uploads/2022/02/365-O-que-e%CC%81-tecnologia_.jpg" alt="Vagas de tecnologia" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Tecnologia segue com grande gap</h3>
+                    <p>
+                        Um levantamento da Brasscom mostrou que o país teve 159 mil vagas abertas para o setor em 2021, mas só formou 53 mil profissionais. A alternativa para as muitas empresas tem sido investir na capacitação dos próprios profissionais.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="https://ogimg.infoglobo.com.br/in/23001849-c2f-667/FT1086A/INFOCHPDPICT000041975439.jpg" alt="Mundo de games" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Continua aquecido o mundo dos games</h3>
+                    <p>
+                        Entre 2020 e 2021, período mais severo da pandemia, o faturamento da indústria de games passou de US$ 179,1 bilhões para US$ 192,7 bilhões, uma alta de 7,6%. Este ano deve girar US$ 203,1 bilhões e a projeção para 2024 é de um crescimento de 15,5% na comparação com 2021, segundo a Newzoo.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="https://aelaschool.com/wp-content/uploads/2019/11/artigoQualadiferencaentreUXeUIDesign_01aaa69067bf7dd2a32f9fba1df84b12_2000.png" alt="Designer digital" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Mercado de trabalho para designer digital</h3>
+                    <p>
+                        Com a expansão da tecnologia e a adesão do trabalho remoto na pandemia da COVID-19, os setores que trabalham com criatividade estão com alta demanda. Além disso, a partir do Relatório Workana: Mercado Freelancer 2020, a projeção de demanda pós-pandemia tende a aumentar 67,7%, principalmente no meio online.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
